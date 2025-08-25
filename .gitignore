@@ -20,7 +20,7 @@ css/*.css.map
 
 # Keep only the final production style.css
 !css/style.css
-!css/icon-font.css
+
 
 # ===========================
 # Sass
